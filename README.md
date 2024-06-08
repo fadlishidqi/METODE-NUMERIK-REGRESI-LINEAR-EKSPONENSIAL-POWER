@@ -1,6 +1,6 @@
 # Analisis Regresi pada Performa Siswa
 
-Analisis ini menggunakan regresi linier, eksponensial, dan model daya untuk memahami hubungan antara jumlah latihan soal yang dilakukan oleh siswa dan nilai ujian yang mereka peroleh. 
+Analisis ini menggunakan regresi linier, eksponensial, dan model power untuk memahami hubungan antara jumlah latihan soal yang dilakukan oleh siswa dan nilai ujian yang mereka peroleh. 
 
 ## Dependencies
 
