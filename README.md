@@ -19,7 +19,7 @@ Analisis ini menggunakan regresi linier, eksponensial, dan model daya untuk mema
 
 ## Deskripsi Kode
 
-- `regression_analysis.py`: Script utama yang melakukan analisis regresi linier, eksponensial, dan daya.
+- `Regresi linear, Eksponensial, Model Power.py`: Script utama yang melakukan analisis regresi linier, eksponensial, dan daya.
 - `Student_Performance.csv`: Dataset yang berisi informasi tentang jumlah latihan soal yang dilakukan oleh siswa dan nilai ujian mereka.
 
 ## Hasil Analisis
